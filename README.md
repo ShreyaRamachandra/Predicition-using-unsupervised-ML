@@ -1,6 +1,6 @@
 # Predicition-using-unsupervised-ML
 
-⦿ To predict the optimum number of clusters from Iris dataset and represent visually
+⦿ To predict the optimum number of clusters from the Iris dataset and represent them visually
 
 ⦿ Languages: Python
 

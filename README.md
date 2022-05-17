@@ -1,4 +1,4 @@
-# Prediciton-using-unsupervised-ML
+# Predicition-using-unsupervised-ML
 
 ⦿ To predicit the optimum nuber of clusters from Iris dataset and represent visually
 
